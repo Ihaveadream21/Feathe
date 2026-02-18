@@ -11,6 +11,7 @@ import NimbleViews
 enum TabEnum: String, CaseIterable, Hashable {
 	case home
 	case sources
+	case appstore
 	case library
 	case settings
 	case certificates
